@@ -1,2 +1,2 @@
 # numpy_learning
-numpy exercises
+personal notes and numpy exercises from Lynda.com NumPy tutorials
